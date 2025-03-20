@@ -17,6 +17,15 @@
 # a general subject (`mathematics`, `logic`, `computer science`).
 #
 # This list is not ordered. Add new entries wherever you want.
+- name: Introduction to Formalized Mathematics in Lean
+  instructor: Kalle Kytölä
+  institution: Aalto University (Finland)
+  lean_version: 4
+  tags: ['mathematics', 'intro to prood', 'beginner']
+  summary: >
+    After this course, you will be able to (1) write basic formal mathematical statements and proofs in Lean4 interactive theorem prover; (2) use the libraries and tools of Lean4 to construct and inspect proofs; (3) participate in formalization projects or even run projects of your own.
+  website: 
+  year: 2025
 - name: Preuve assistée par ordinateur dans Lean (Assisted proofs in Lean)
   instructor: Filippo A. E. Nuccio
   institution: CS/Math Lyon Graduate School, France
